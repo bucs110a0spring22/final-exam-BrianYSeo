@@ -11,17 +11,19 @@ _Replace anything surrounded by the `< >` symbols._
 Please make sure you have completed the soot survey at:
     [soot.binghamton.edu](https://soot.binghamton.edu)
 
-Please list the urls for the APIs you used:
+Please list the urls for the APIs you used: 
+https://api.dictionaryapi.dev/api/v2/entries/en/, https://animechan.vercel.app/api/random
 
-Summary of Program:
 
-Most Challenging topic in the course:
+Summary of Program: It gets a random quote from anime and defines the 4th word
+
+Most Challenging topic in the course: Learning APIs
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ n/a
 
 ## REFERENCES:
- < List any outside resources used >
+ https://www.geeksforgeeks.org/python-extract-words-from-given-string/
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ n/a
